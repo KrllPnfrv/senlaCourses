@@ -52,4 +52,17 @@ public class Number {
 	public void setG(char g) {
 		this.g = g;
 	}
+	    
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }

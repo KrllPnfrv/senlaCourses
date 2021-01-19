@@ -76,7 +76,24 @@ public class Main {
 	       l.parseInt("128");
 	       System.out.println(l);
 	       
-	       
+	    Integer iInt = new Integer(25);
+	   	Short sShort = new Short((short)10);
+	   	Byte bByte = new Byte((byte)5);
+	   	Long lLong = new Long(2021);
+	   	Float fFloat = new Float(1000); 
+	   	Double t = new Double(2.5);
+	   	Character ch = new Character('a');
+	   	
+	   	System.out.println(iInt.MAX_VALUE);
+	   	
+	   	Double.parseDouble(s);
+	   	System.out.println(s);
+	   	
+	   	
+	   	Integer in = 1000;
+	   	Short sH = 1001;
+	   	
+	   	System.out.println(in.equals(sH));
 	       
 	       
 	       
